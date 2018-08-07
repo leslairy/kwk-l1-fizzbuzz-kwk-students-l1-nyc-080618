@@ -1,6 +1,6 @@
 def hungry_leyla
   fries=0
-  until fries == 10
+  until fries == 5
   puts "give me more"
   fries += 1
 end
