@@ -5,3 +5,4 @@ def hungry_leyla
   fries += 1
 end
 end
+hungry_leyla
